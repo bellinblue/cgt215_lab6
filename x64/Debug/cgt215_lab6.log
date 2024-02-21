@@ -1,0 +1,4 @@
+﻿  cgt215_lab6.cpp
+C:\Users\rnmci\source\repos\cgt215_lab6\cgt215_lab6.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rnmci\source\repos\cgt215_lab6\cgt215_lab6.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+  cgt215_lab6.vcxproj -> C:\Users\rnmci\source\repos\cgt215_lab6\x64\Debug\cgt215_lab6.exe
